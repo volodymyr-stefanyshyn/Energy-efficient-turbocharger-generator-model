@@ -1,0 +1,30 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mlapp
+*.mlappinstall
+*.mlx~
+*.p
+mccExcludedFiles.log
+readme.txt
+requiredMCRProducts.txt
+unresolvedSymbols.txt
+
+# Simulink
+*.slxc
+*.sfx
+*.autosave
+codegen/
+slprj/
+
+# Simulink build artifacts
+*.bak
+*.dbg
+*.log
+*.rtwlog
+sldatadict.sldd.bak
+
+# Simulink cache and temp
+*.slx.r*
+*.mdl.r*

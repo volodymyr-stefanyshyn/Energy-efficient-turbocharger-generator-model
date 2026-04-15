@@ -1,0 +1,5 @@
+turbo_gen.slx filter=lfs diff=lfs merge=lfs -text
+*.mldatx filter=lfs diff=lfs merge=lfs -text
+*.fig filter=lfs diff=lfs merge=lfs -text
+*.slx filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
